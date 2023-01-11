@@ -1,6 +1,8 @@
 
-#                                                                   Hello!, I'm Vara Prasad! 👋
-
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<h1 align="center">Hi 👋, I'm Vara Prasad</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 ## 🚀 About Me
 I'm an ML Engineer, and a Frontend Developer...
