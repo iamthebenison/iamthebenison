@@ -13,7 +13,7 @@ I'm an ML Engineer, and a Frontend Developer...
 
 👩‍💻 I'm currently working on Semi Satellite designed for Multipurpose data acquisition and Low range detection
 
-👩‍💻 I'm currently working on empowering my fellow collegues as a part of Google Developer Student Clubs.
+👩‍💻 I'm currently a part of Google Developer Student Clubs.
 
 🧠 I'm currently learning ChatGPT, Digital Twins, Web3.0, React, Vue.
 
