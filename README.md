@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 # 💫 About Me:
-👩‍💻 I'm currently working on Sign Language Detection using two layered LSTM<br><br>👩‍💻 I'm currently working on Semi Satellite designed for Multipurpose data acquisition and Low range detection<br><br>👩‍💻 I'm currently a part of Google Developer Student Clubs.<br><br>🧠 I'm currently learning ChatGPT, Digital Twins, Web3.0, React, Vue.<br><br>👯‍♀️ I'm looking to collaborate on open source projects that can give me experience over common interests<br><br>📫 ( How to reach me ) ? saisrinivasvaraprasadk@gmail.com : LinkedIn.com<br><br>😄 Pronouns are he/him<br><br>⚡️ Fun fact...The dot over the small letter 'i' is called a tittle.
+👩‍💻 I'm currently working on Sign Language Detection using two layered LSTM<br><br>👩‍💻 I'm currently working on Semi Satellite designed for Multipurpose data acquisition and Low range detection<br><br>👩‍💻 I'm currently a part of Google Developer Student Clubs.<br><br>🧠 I'm currently learning ChatGPT, Digital Twins, Web3.0, React, Vue.<br><br>👯‍♀️ I'm looking to collaborate on open source projects that can give me experience over common interests<br><br>📫 ( How to reach me ) ? saisrinivasvaraprasadk@gmail.com : LinkedIn.com<br><br>😄 Pronouns are he/him<br><br>⚡️ Fun fact...The dot over the small letter 'i' is called a tittle. <br> ⚡ Fun fact: I use tabs over spaces  
 
 
 ## 🌐 Socials:
@@ -28,7 +28,16 @@
 [![](https://visitcount.itsvg.in/api?id=iamthebenison&icon=8&color=8)](https://visitcount.itsvg.in)
 
 
-<!--### 😂 Random Dev Meme
+<!--### 😂 Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>-->
 
 ---
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+<br/>  
+ 
+----
